@@ -4,5 +4,9 @@ In this game, user gets the first chance to pick the option among Rock, paper an
 Rules as follows :
 
 Rock vs paper-> paper wins
+
+
 Rock vs scissor-> Rock wins
+
+
 paper vs scissor-> scissor wins.
