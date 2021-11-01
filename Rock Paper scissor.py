@@ -1,4 +1,4 @@
-## import random module
+# import random module
 import random
 
 # Print multiline instruction
